@@ -25,3 +25,12 @@ body {
     width: 24px;
     height: 24px;
 }
+
+.profile-content {
+    text-align: left;
+}
+
+.close-button {
+    width: 100%;
+    height: 100%;
+}
